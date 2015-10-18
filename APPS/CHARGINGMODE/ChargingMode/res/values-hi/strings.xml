@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">%1$d घं %2$d मिनट शेष</string>
+    <string name="battery_min_guide">%d मिनट शेष</string>
+</resources>

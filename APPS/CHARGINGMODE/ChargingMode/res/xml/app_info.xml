@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_build_date">07.08.2015 09:55:59</string>
+    <string name="app_build_username">daebum2.kim</string>
+    <string name="app_build_command">ba release COM COM</string>
+    <string name="app_build_os">Linux</string>
+    <string name="buildapp_version">5.1.3</string>
+</resources>

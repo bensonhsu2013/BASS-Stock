@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">Осталось %1$d ч %2$d мин</string>
+    <string name="battery_min_guide">Заряда осталось на %d мин.</string>
+</resources>

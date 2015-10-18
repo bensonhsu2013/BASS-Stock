@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">残り%1$d時間%2$d分</string>
+    <string name="battery_min_guide">残り%d分</string>
+</resources>

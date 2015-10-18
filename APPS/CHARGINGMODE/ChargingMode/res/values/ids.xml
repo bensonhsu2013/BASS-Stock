@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="backGageLayout">false</item>
+    <item type="id" name="ampmTextView">false</item>
+    <item type="id" name="timeTextView">false</item>
+    <item type="id" name="batteryRemainTimeTextView">false</item>
+    <item type="id" name="batteryTextView">false</item>
+    <item type="id" name="batteryPercentTextView">false</item>
+    <item type="id" name="frontGageLayout">false</item>
+    <item type="id" name="thunderLayout">false</item>
+    <item type="id" name="thunderIcon">false</item>
+</resources>

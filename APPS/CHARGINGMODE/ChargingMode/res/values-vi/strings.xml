@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">Còn lại %1$d giờ %2$d phút</string>
+    <string name="battery_min_guide">%d phút còn lại</string>
+</resources>

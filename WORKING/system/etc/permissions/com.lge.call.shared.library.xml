@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Mobile Communication Company, LG ELECTRONICS INC., SEOUL, KOREA
+     Copyright(c) 2015 by LG Electronics Inc.
+
+     All rights reserved. No part of this work may be reproduced, stored in a
+     retrieval system, or transmitted by any means without prior written
+     Permission of LG Electronics Inc.
+-->
+
+<permissions>
+    <library name="com.lge.call.shared.library"
+             file="/system/framework/com.lge.call.shared.library.jar" />
+</permissions>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/backGageLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <TextView android:textSize="19.0sp" android:id="@id/ampmTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="51.0sp" android:id="@id/timeTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:layout_below="@id/ampmTextView" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="19.0sp" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/batteryRemainTimeTextView" android:focusable="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:singleLine="true" android:layout_below="@id/timeTextView" android:marqueeRepeatLimit="marquee_forever" android:layout_marginStart="30.0dip" android:layout_marginEnd="30.0dip" />
+            <RelativeLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:layout_below="@id/batteryRemainTimeTextView" android:layout_centerHorizontal="true">
+                <TextView android:textSize="29.0sp" android:gravity="center_horizontal" android:id="@id/batteryTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="19.0sp" android:id="@id/batteryPercentTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="3.0dip" android:text="%" android:layout_alignBottom="@id/batteryTextView" android:layout_toEndOf="@id/batteryTextView" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <com.lge.wearable.chargingmode.GageWidget android:id="@id/frontGageLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/thunderLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="4.0dip" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+            <ImageView android:id="@id/thunderIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/battery_charging_thunder" />
+        </FrameLayout>
+    </RelativeLayout>
+</FrameLayout>

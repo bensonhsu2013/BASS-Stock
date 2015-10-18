@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">នៅសល់ %1$d ម៉ោង %2$d នាទី</string>
+    <string name="battery_min_guide">នៅសល់ %d នាទី</string>
+</resources>

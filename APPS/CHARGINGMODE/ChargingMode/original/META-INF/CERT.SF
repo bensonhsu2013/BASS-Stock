@@ -1,0 +1,60 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: TWHoR7O4Kwx894llx7EoBCp7q1s=
+
+Name: res/layout/clock_main.xml
+SHA1-Digest: +ZEiYTtoHJhBVUZGLVBBdjjM8XU=
+
+Name: res/drawable-hdpi-v4/battery_charging_thunder_dim.png
+SHA1-Digest: xpV0waL1PfvcbvvAkrY2D059gSI=
+
+Name: res/drawable-hdpi-v4/thunder_layout_100_bg_amb.xml
+SHA1-Digest: 9Is09YB3Ha37qBQJl6J5aJmbRUw=
+
+Name: res/xml/app_tag.xml
+SHA1-Digest: tRPlzzV36tepuetkshYFw+HReBU=
+
+Name: res/drawable-hdpi-v4/battery_charging_thunder.png
+SHA1-Digest: wDFM3Al9UeFRnW6uRgppyDoBOKE=
+
+Name: resources.arsc
+SHA1-Digest: rT0pTDclumMr7fzw05jMEqWs0GY=
+
+Name: classes.dex
+SHA1-Digest: 4dNtKqtL/FmXk4WVQO8YVeXul4I=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/drawable-hdpi-v4/thunder_layout_100_bg.xml
+SHA1-Digest: mF1z82dQsnLMY7iCLYRkCJEYqC8=
+
+Name: res/xml/token_sync.xml
+SHA1-Digest: rQEh4s3mMb5MbLNO8A9apkIgKvA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: M9gIghOxctAmjqi8Q+nummy3vz8=
+
+Name: res/drawable-hdpi-v4/thunder_layout_0_bg.xml
+SHA1-Digest: KwdXZFfw+MtJanFbUEnK1onhcF0=
+
+Name: res/drawable-hdpi-v4/thunder_layout_0_bg_amb.xml
+SHA1-Digest: mUYVbuIVoVK2y0NTlkuU/Slkluk=
+
+Name: res/drawable-hdpi-v4/battery_charging_watch_thunder_circle_norma
+ l.png
+SHA1-Digest: 05fOY2lmMYyCwsUvt+Ev8lJcdyE=
+
+Name: res/drawable-hdpi-v4/battery_charging_watch_thunder_circle_dim.p
+ ng
+SHA1-Digest: CXUXItoj0/RunIhAWb2QpBZxDB0=
+
+Name: lib/armeabi/libdummy_32.so
+SHA1-Digest: KTvtubP1X/fawdroJ5Nmv8ENsUs=
+
+Name: res/xml/additions.xml
+SHA1-Digest: H8V8bfg4Qvfmz+26ZqnEPyKi2XE=
+
+Name: res/xml/app_info.xml
+SHA1-Digest: uaYndR2FxC2PUKs+dB1veMH1PhM=
+

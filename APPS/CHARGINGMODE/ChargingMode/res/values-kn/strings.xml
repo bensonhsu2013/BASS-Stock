@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">%1$d ಗಂ %2$d ನಿಮಿಷ ಉಳಿದಿದೆ</string>
+    <string name="battery_min_guide">%d ನಿಮಿಷ ಉಳಿದಿದೆ</string>
+</resources>

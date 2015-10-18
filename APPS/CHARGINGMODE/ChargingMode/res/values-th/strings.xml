@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">เหลือ%1$d ชม. %2$d น.</string>
+    <string name="battery_min_guide">เหลือ %d นาที</string>
+</resources>

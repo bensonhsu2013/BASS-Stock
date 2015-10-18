@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/clock_main.xml
+SHA1-Digest: R/zIq3MYLqpUuCByKW98zH/4wqw=
+
+Name: res/drawable-hdpi-v4/battery_charging_thunder_dim.png
+SHA1-Digest: 3CwxC/xOY2zxgI1pPtv9Tw+J9JU=
+
+Name: res/drawable-hdpi-v4/thunder_layout_100_bg_amb.xml
+SHA1-Digest: FlLZBw8zoWiBYJtoRRk/mMo4I0o=
+
+Name: res/xml/app_tag.xml
+SHA1-Digest: JGcIg/UcAfJdIfdkHSwLFQAuli4=
+
+Name: res/drawable-hdpi-v4/battery_charging_thunder.png
+SHA1-Digest: Jvb1WjpBLriHcfx49ssaPBoZrF0=
+
+Name: resources.arsc
+SHA1-Digest: d5+D7mZZekFvvhMObc3idBK5jLk=
+
+Name: classes.dex
+SHA1-Digest: j1a70NIof9jU8PqEBhNeKTTI3as=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/drawable-hdpi-v4/thunder_layout_100_bg.xml
+SHA1-Digest: MYtNWvRkrAoPpgworfoV6kMEpmU=
+
+Name: res/xml/token_sync.xml
+SHA1-Digest: dilHamBFQWn+5rvf2X+W/XO5OXs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rUg9q/c9MNtzJxpNF6liecIGW5M=
+
+Name: res/drawable-hdpi-v4/thunder_layout_0_bg.xml
+SHA1-Digest: eSTrnmouoxbFKv3W7VHpBIwLtZA=
+
+Name: res/drawable-hdpi-v4/thunder_layout_0_bg_amb.xml
+SHA1-Digest: eSTrnmouoxbFKv3W7VHpBIwLtZA=
+
+Name: res/drawable-hdpi-v4/battery_charging_watch_thunder_circle_dim.p
+ ng
+SHA1-Digest: FJvCN/8c86xo3Yi8Ud8rsTwEr1g=
+
+Name: res/drawable-hdpi-v4/battery_charging_watch_thunder_circle_norma
+ l.png
+SHA1-Digest: uyvXOFsA/ZYXGE6m1MYxnfUh60s=
+
+Name: res/xml/app_info.xml
+SHA1-Digest: J3GIQ3F4EFqidEAIoXLzgzEjbRc=
+
+Name: res/xml/additions.xml
+SHA1-Digest: qkvvwNUsSQhFrvpbfqjSX7ALGkA=
+
+Name: lib/armeabi/libdummy_32.so
+SHA1-Digest: mkN8/26S2QBWNYBTw0M0+9h9Hm4=
+

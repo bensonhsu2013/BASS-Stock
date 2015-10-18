@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="battery_gray_normal">#ff6e6e6e</color>
+    <color name="battery_gray_amb">#ff424242</color>
+    <color name="battery_orange_normal">#ffff6600</color>
+    <color name="battery_blue_normal">#ff01ccff</color>
+    <color name="battery_orange_amb">#ff702d00</color>
+    <color name="battery_blue_amb">#ff015a70</color>
+    <color name="battery_orange_start_normal">#ffffae2d</color>
+    <color name="battery_blue_start_normal">#ff8be0f6</color>
+    <color name="battery_orange_start_amb">#ff704c14</color>
+    <color name="battery_blue_start_amb">#ff3d626c</color>
+    <color name="battery_orange_end_normal">#ffff6600</color>
+    <color name="battery_blue_end_normal">#ff01ccff</color>
+    <color name="battery_orange_end_amb">#ff702d00</color>
+    <color name="battery_blue_end_amb">#ff015a70</color>
+    <color name="color_000000">#ff000000</color>
+    <color name="color_ffffff">#ffffffff</color>
+    <color name="gage_background_normal">#ff202020</color>
+    <color name="gage_background_amb">#ff292929</color>
+</resources>

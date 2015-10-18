@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">Pozostało %1$d g %2$d min</string>
+    <string name="battery_min_guide">Pozostało %d minut</string>
+</resources>

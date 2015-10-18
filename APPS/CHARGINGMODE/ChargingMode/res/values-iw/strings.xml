@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_time_guide_PrDdefault">‏נותרו %1$d שעות %2$d דקות</string>
+    <string name="battery_min_guide">‏טעינה נותרת ל-%d דקות</string>
+</resources>

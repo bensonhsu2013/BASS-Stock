@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.lge.wearable.chargingmode" platformBuildVersionCode="21" platformBuildVersionName="5.0-1521886">
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.BATTERY_STATS"/>
+    <application android:allowBackup="true" android:debuggable="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.lge.wearable.chargingmode.ChargingApplication">
+        <uses-library android:name="com.google.android.wearable" android:required="true"/>
+        <activity android:allowEmbedded="true" android:exported="true" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.lge.wearable.chargingmode.ChargingActivity" android:taskAffinity="" android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.DESK_DOCK"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

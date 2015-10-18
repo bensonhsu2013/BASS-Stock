@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChargingMode</string>
+    <string name="battery_time_guide_PrDdefault">%1$d h %2$d min left</string>
+    <string name="battery_min_guide">%d min left</string>
+</resources>
